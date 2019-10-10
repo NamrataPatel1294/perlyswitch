@@ -1,0 +1,8 @@
+switch EXPR:
+    case EXPR:
+        SUITE
+    case EXPR:
+        SUITE
+    ...
+    else:
+        SUITE
